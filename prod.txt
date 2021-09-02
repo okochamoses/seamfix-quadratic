@@ -1,0 +1,6 @@
+- Write a REST API which solves the quadratic formula
+
+- Service will take inputs a, b, c and outputs the 2 values of x
+- Unit tests are expected for your application
+- No authentication is required
+- Proper error handling is expected
